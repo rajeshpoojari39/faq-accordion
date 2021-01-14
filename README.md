@@ -1,6 +1,6 @@
 ## FAQ Accordion build using ReactJS
 
-[Click here to checkout the live site]()
+[Click here to checkout the live site](https://faq-accordion-reactjs.netlify.app/)
 
 #### Idea
 
